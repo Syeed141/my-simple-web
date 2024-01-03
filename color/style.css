@@ -6,4 +6,11 @@ margin: 10px;
 box-shadow: 10px 10px 20px green;
 
 }
+img{
+
+    border: 4px solid red;
+    padding:10px;
+    border-radius: 50%;
+   object-fit: contain;
+}
 
